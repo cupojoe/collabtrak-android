@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/toggle_tracking"
+        android:icon="@android:drawable/ic_menu_send"
+        android:title="Toggle Tracking"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/change_user"
+        android:icon="@android:drawable/ic_menu_mylocation"
+        android:title="Change User"
+        app:showAsAction="never" />
+</menu>
